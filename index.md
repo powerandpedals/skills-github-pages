@@ -1,4 +1,4 @@
----
-title: Welcome to my blog
+Power and Pedals Mobile Bike Service
+title: Mobile Ebike and Bike Repair Solutions
 ---
 
